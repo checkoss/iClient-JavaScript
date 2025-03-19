@@ -21,7 +21,7 @@
     "@supermap/iclient-common": "10.1.0",
     "proj4": "2.6.2",
     "xlsx": "0.16.7",
-    "canvg": "3.0.6",
+    "canvg": "3.0.11",
     "lodash.remove": "^4.7.0"
   }
 }
